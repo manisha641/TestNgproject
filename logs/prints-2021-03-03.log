@@ -1,0 +1,3 @@
+21:45:50.654 [Forwarding actions on session 37fdffe467c6604f929bd2b20b695d9b to remote] DEBUG org.apache.http.impl.execchain.MainClientExec - Connection can be kept alive indefinitely
+21:45:50.656 [Forwarding actions on session 37fdffe467c6604f929bd2b20b695d9b to remote] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection [id: 0][route: {}->http://localhost:26429] can be kept alive indefinitely
+21:45:50.657 [Forwarding actions on session 37fdffe467c6604f929bd2b20b695d9b to remote] DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager - Connection released: [id: 0][route: {}->http://localhost:26429][total kept alive: 1; route allocated: 1 of 2000; total allocated: 1 of 2000]

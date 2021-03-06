@@ -1,0 +1,4 @@
+21:23:02.741 [main] DEBUG packageA.Test - debug message
+21:23:02.745 [main] INFO  packageA.Test - object is precent
+21:23:02.746 [main] ERROR packageA.Test - object is not present
+21:23:02.746 [main] FATAL packageA.Test - this is fatal
